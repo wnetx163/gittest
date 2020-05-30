@@ -5,5 +5,6 @@
 --soft   意思是：不删除工作空间改动代码，撤销commit，不撤销git add . 
  git reset --soft HEAD^
  
+000
 
 
